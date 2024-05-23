@@ -1,4 +1,4 @@
-# Scrieti o functie care citeste de la tastatura nume, prenume, varsta  de n ori (n citit de la tastatura) si salveaza informatiile intr-un fisier json.
+# 1. Scrieti o functie care citeste de la tastatura nume, prenume, varsta  de n ori (n citit de la tastatura) si salveaza informatiile intr-un fisier json.
 import json, os, csv
 
 def citeste_int(a):
@@ -27,7 +27,7 @@ def citeste_n_ori():
 
 citeste_n_ori()
 
-# Scrieti o functie care citeste un fisier json de tipul celui de la problema 1 si scrie informatiile in format csv
+# 2. Scrieti o functie care citeste un fisier json de tipul celui de la problema 1 si scrie informatiile in format csv
 
 calecsv="Lista_json_to_csv.csv"
 
