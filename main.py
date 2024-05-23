@@ -25,7 +25,7 @@ def citeste_n_ori():
         lista.append(dict)
     import_lista_in_json(calejson,lista)
 
-# citeste_n_ori()
+citeste_n_ori()
 
 # Scrieti o functie care citeste un fisier json de tipul celui de la problema 1 si scrie informatiile in format csv
 
